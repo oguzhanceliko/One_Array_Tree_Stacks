@@ -11,7 +11,7 @@ Tek bir dizi içerisinde 3 stack tutma işlemini alanı verimli şekilde kullanm
 Pushlamak için kaç öğe gireceğimiz proje kısmında belirttikten sonra arr[] dizimiz belirtilen boyuta göre açılır.<br />
 top[] dizisi tüm giriş ve stacklerin boş olduğunu belirtmek için -1 olarak başlatılır.<br />
 next[] dizisi döngü yardımıyla girilen stack değerlerini tutar ve döngü sonunda listenin sonu boş tutacak şekilde -1 ekler.<br />
-Stacke pushlamak yaptığımız zaman free değerimiz 0 ise yerin olduğunu ve girilen stack değerinin direk ana dizimiz olan arr[] aktarmasını sağlar fakat -1 olduğu durumda overflow taşma olduğunu gösterir.<br />
+Stacke push işlemi yaptığımız zaman free değerimiz 0 ise yerin olduğunu ve girilen stack değerinin direk ana dizimiz olan arr[] aktarmasını sağlar fakat -1 olduğu durumda overflow taşma olduğunu gösterir.<br />
 top[] dizimize tekrar döndüğümüzde ise girilen stack değerinin hangi stacke girdiğine göre -1 olan kısım 0a döner ve aynı kısma tekrardan öğe eklenirse 0 olan 1 2 3 şeklinde stack boyutu kadar artış sağlar.<br />
 next[] dizimizde top[] dizisi olduğu gibi girilen değere göre top[] dizisinden gelen değeri next[] dizisinde ilgili yere yazar.
 
