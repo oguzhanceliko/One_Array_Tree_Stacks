@@ -111,19 +111,17 @@ namespace Onearraytreestacks
 
             KStack ks = new KStack(k, n);
 
-            //1.stack için eklenen elemanlar
             ks.push(15, 0);
-            ks.push(45, 0);
-            ks.push(13, 0);
+            ks.push(29, 0);
+            ks.push(77, 0);
 
             //2.Stack için eklenen elemanlar
             ks.push(17, 1);
-            ks.push(49, 1);
-            ks.push(39, 1);
+            ks.push(25, 1);
+            ks.push(38, 1);
 
             //3.Stack için eklenen elemanlar
-            ks.push(11, 2);
-            ks.push(9, 2);
+            ks.push(16, 2);
             ks.push(7, 2);
 
 
