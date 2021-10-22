@@ -1,0 +1,7 @@
+C:\Users\RoysBABA\source\repos\Onearraytreestacks\Onearraytreestacks\bin\Debug\Onearraytreestacks.exe.config
+C:\Users\RoysBABA\source\repos\Onearraytreestacks\Onearraytreestacks\bin\Debug\Onearraytreestacks.exe
+C:\Users\RoysBABA\source\repos\Onearraytreestacks\Onearraytreestacks\bin\Debug\Onearraytreestacks.pdb
+C:\Users\RoysBABA\source\repos\Onearraytreestacks\Onearraytreestacks\obj\Debug\Onearraytreestacks.csproj.AssemblyReference.cache
+C:\Users\RoysBABA\source\repos\Onearraytreestacks\Onearraytreestacks\obj\Debug\Onearraytreestacks.csproj.CoreCompileInputs.cache
+C:\Users\RoysBABA\source\repos\Onearraytreestacks\Onearraytreestacks\obj\Debug\Onearraytreestacks.exe
+C:\Users\RoysBABA\source\repos\Onearraytreestacks\Onearraytreestacks\obj\Debug\Onearraytreestacks.pdb
